@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="GIF.gif" width="400" />
+  <img src="GIF.gif" width="800" />
 </p>
